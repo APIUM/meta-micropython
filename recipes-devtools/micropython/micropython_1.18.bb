@@ -5,7 +5,7 @@ SECTION = "devel/python"
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=4d13714d609dce89ca5832f2e0864344"
 
-INC_PR = "r1"
+INC_PR = "r2"
 PR = "${INC_PR}.0"
 
 SRC_URI = " \
